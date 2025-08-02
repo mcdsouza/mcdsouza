@@ -1,16 +1,16 @@
-## Hi there 👋
+## Megan D'Souza
 
-<!--
-**mcdsouza/mcdsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studying Computer Science at Stanford University 💻🧬🌲
 
-Here are some ideas to get you started:
+I am interested in pursuing biomedical computation and bioinformatics through AI to create more accessible healthcare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I’m currently working on:
+- automating protein sequence annotations in pBLAST
+- modeling bacterial fluorescence in growing populations
+  
+I'm currently learning:
+- deep learning
+- training CNNs on PyTorch
+
+Reach me at megands@stanford.edu
